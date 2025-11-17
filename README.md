@@ -4,7 +4,6 @@ Treabajo práctico integrador grupal
 Integrantes del grupo6:
 - Eduardo Hassan Gordillo
 - Camila Nazarena Abril Cretton
-- Nombre 3
 
 Este repositorio contiene:
 - root.tar.gz
@@ -13,3 +12,4 @@ Este repositorio contiene:
 - www_dir.tar.gz
 - backup_dir.tar.gz
 - var_part_*
+- Topologia.png
