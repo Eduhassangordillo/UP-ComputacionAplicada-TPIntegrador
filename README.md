@@ -1,7 +1,7 @@
 # Universidad de Palermo - Computacion Aplicada
 Treabajo práctico integrador grupal
 
-Integrantes del grupo6:
+Integrantes del grupo 6:
 - Eduardo Hassan Gordillo
 - Camila Nazarena Abril Cretton
 
