@@ -4,6 +4,7 @@ Treabajo práctico integrador grupal
 Integrantes del grupo 6:
 - Eduardo Hassan Gordillo
 - Camila Nazarena Abril Cretton
+- Maria Lourdes Vega
 
 Este repositorio contiene:
 - root.tar.gz
